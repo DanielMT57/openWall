@@ -13,7 +13,11 @@
         <header>
             <div class="wrapper">
                 <div class="logo">Muro de las lamentaciones</div>
+                <div class="publicidad">
+                    PUBLICITA ACA!!!!
+                </div>
             </div>
+
         </header>
         <section class="contenido wrapper">
             <div class="cont">
